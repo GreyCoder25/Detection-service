@@ -2,8 +2,8 @@
 Detection service.  
 Detects different objects on images.
 
-<img src="app/static/screenshots/home.png">
-<img src="app/static/screenshots/sentiment_example.png">
+<img src="app/static/screenshots/screenshot1.png">
+<img src="app/static/screenshots/screenshot2.png">
 
 
 
